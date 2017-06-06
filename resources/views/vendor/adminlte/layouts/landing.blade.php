@@ -23,7 +23,7 @@ Landing page based on Pratt: http://blacktie.co/demo/pratt/
     <meta name="twitter:site" content="@acachawiki" />
     <meta name="twitter:creator" content="@acacha1" />
 
-    {{--<meta name="theme-color" content="#2196f3">--}}
+    <meta name="theme-color" content="#2196f3">
 
     <title>{{ trans('adminlte_lang::message.landingdescriptionpratt') }}</title>
 
